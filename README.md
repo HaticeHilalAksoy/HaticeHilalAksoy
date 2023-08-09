@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Hatice Hilal AKSOY</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on Frontend 
+- 🔭 I’m currently working on Frontend
 
 - 📫 How to reach me **hhilalaksoy07@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hhilalaksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hhilalaksoy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hatice hilal aksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hatice hilal aksoy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haticehilalaksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haticehilalaksoy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22363718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22363718" height="30" width="40" /></a>
 <a href="https://instagram.com/haticehilal.aksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haticehilal.aksoy" height="30" width="40" /></a>
 <a href="https://medium.com/@hhilalaksoy07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hhilalaksoy07" height="30" width="40" /></a>
@@ -26,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haticehilalaksoy&show_icons=true&locale=en" alt="haticehilalaksoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haticehilalaksoy&" alt="haticehilalaksoy" /></p>
+
 
 
 <picture>
