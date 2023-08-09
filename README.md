@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Hatice Hilal AKSOY</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
+- 🔭 I’m currently working on **Radio Application**
+
+- 📫 How to reach me **hhilalaksoy07@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hhilalaksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hhilalaksoy" height="30" width="40" /></a>
