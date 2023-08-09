@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hatice Hilal AKSOY</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Radio Application**
+- 🔭 I’m currently working on **Frontend **
 
 - 📫 How to reach me **hhilalaksoy07@hotmail.com**
 
