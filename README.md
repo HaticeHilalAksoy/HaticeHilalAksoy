@@ -1,4 +1,4 @@
-[![MasterHead]([[[[[https://wallpapersafari.com/free-background-wallpapers/](https://catalyst-au.net/wp-content/uploads/2021/12/top-programing-languages.jpeg)](https://codersera.com/blog/wp-content/uploads/2020/05/programming-languages-list-768x276.jpg)](https://www.edupointbd.com/wp-content/uploads/2017/11/Programming-Language.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fclassnotes.ng%2Flesson%2Frevision-computer-programming-language-computer-science-jss2%2F&psig=AOvVaw0kjGZ0k8bepiqOxPnVi8lN&ust=1691670770704000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiHxuzKz4ADFQAAAAAdAAAAABB5)](https://www.edupointbd.com/wp-content/uploads/2017/11/Programming-Language.png))
+[![MasterHead](https://www.edupointbd.com/wp-content/uploads/2017/11/Programming-Language.png)
 <h1 align="center">Hi 👋, I'm Hatice Hilal AKSOY</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
@@ -22,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haticehilalaksoy&show_icons=true&locale=en" alt="haticehilalaksoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haticehilalaksoy&" alt="haticehilalaksoy" /></p>
-
