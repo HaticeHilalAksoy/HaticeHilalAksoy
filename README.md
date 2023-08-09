@@ -1,4 +1,4 @@
-[![MasterHead](https://www.edupointbd.com/wp-content/uploads/2017/11/Programming-Language.png)
+![MasterHead](https://www.edupointbd.com/wp-content/uploads/2017/11/Programming-Language.png)
 <h1 align="center">Hi 👋, I'm Hatice Hilal AKSOY</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
